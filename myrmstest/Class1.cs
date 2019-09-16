@@ -14,7 +14,7 @@ namespace myrmstest
         [Test]
         public void test1()
         {
-            string Url = "http://172.16.51.47/RMSPublish/Login.aspx";
+            string Url = "http://172.16.51.51/RMSPublish/Login.aspx";
             IWebDriver driver = new ChromeDriver();
 
             //IWebDriver driver = new ChromeDriver();
